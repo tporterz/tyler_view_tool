@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+TylerViewTool::Renderer.copyright 'Tyler Porter', 'All rights reserved'
+```
 
 ## Development
 
